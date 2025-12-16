@@ -43,6 +43,7 @@ To create a 3D model from given orthographic projection.
 
 ## OUTPUT:
 [Deepika EX 3.2.pdf](https://github.com/user-attachments/files/24161657/Deepika.EX.3.2.pdf)
+<img width="1097" height="775" alt="image" src="https://github.com/user-attachments/assets/4df1309e-d20f-42d8-9eaa-5ee373f52ced" />
 
 
 ## RESULT:
